@@ -51,5 +51,4 @@ This is a responsive, single-page marketing website for a fictional software res
 
 This project demonstrates how to build a responsive marketing website with a live chatbot integration using React, Tailwind CSS, and OpenRouter AI. It showcases a simple and effective way to engage users with real-time assistance while maintaining clean and functional design.
 
----
-Let me know if you'd like to modify the `README.md` further or add any other details!
+
